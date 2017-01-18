@@ -1,0 +1,23 @@
+{
+	"name": "team-reflex/onoi-illuminate",
+	"type": "library",
+	"description": "Laravel/Illuminate cache driver for onoi/cache.",
+	"homepage": "https://github.com/teamreflex/Onoi-Illuminate",
+	"keywords": ["onoi", "cache", "laravel", "illuminate"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Kyle Ward",
+			"email": "kyle@team-reflex.com",
+			"homepage": "https://team-reflex.com"
+		},
+	],
+	"autoload": {
+		"psr-4": {"Reflex\\OnoiIlluminate\\": "src/"}
+	},
+	"require": {
+		"php": ">=5.4.0",
+		"illuminate/cache": ">=5.0",
+		"onoi/cache": "^1.2"
+	},
+}
