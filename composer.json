@@ -10,7 +10,7 @@
 			"name": "Kyle Ward",
 			"email": "kyle@team-reflex.com",
 			"homepage": "https://team-reflex.com"
-		},
+		}
 	],
 	"autoload": {
 		"psr-4": {"Reflex\\OnoiIlluminate\\": "src/"}
