@@ -19,5 +19,5 @@
 		"php": ">=5.4.0",
 		"illuminate/cache": ">=5.0",
 		"onoi/cache": "^1.2"
-	},
+	}
 }
